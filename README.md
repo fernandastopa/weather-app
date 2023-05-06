@@ -39,7 +39,7 @@ Enter the temperature unity: 1
 Then you'll get something like that as a response:
 
 ```
-The current temperature in Sao Paulo is 25 ºC
+The current temperature in Rio de Janeiro is 25 ºC
 ```
 
 ## 🛠️ Built with
