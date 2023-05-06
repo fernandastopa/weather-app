@@ -52,5 +52,4 @@ The current temperature in Rio de Janeiro is 25 ºC
 
 
 
-
 ⌨️ made with ❤️ by [Fernanda Stopa](https://github.com/fernandastopa)
